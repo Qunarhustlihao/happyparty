@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fe41f45-2f3b-4fdc-8b81-c078c2d9387e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/happyparty.iml" afterPath="$PROJECT_DIR$/happyparty.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/happyparty_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/happyparty_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0fe41f45-2f3b-4fdc-8b81-c078c2d9387e" name="Default" comment="" />
     <ignored path="happyparty.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -613,7 +608,7 @@
       <option name="number" value="Default" />
       <updated>1438008262114</updated>
       <workItem from="1438008266240" duration="2571000" />
-      <workItem from="1438685541942" duration="27000" />
+      <workItem from="1438685541942" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1438009336031</created>
@@ -625,7 +620,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2598000" />
+    <option name="totallyTimeSpent" value="2754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
